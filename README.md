@@ -55,5 +55,5 @@
 
 [Deepak]: https://github.com/prajapatideepak
 [twitter]: https://twitter.com/d33pakPrajapati
-[instagram]: https://instagram.com/python_programer
+[instagram]: https://instagram.com/python__programer
 [linkedin]: https://linkedin.com/in/deepak-prajapati-5267811a7
