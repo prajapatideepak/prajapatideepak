@@ -5,7 +5,7 @@
 
 - 🔭 I'm Working on React Project
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects , Build My Network
+- 🥅 2022 Goals: Contribute more to Open Source projects , Build My Network
 - ⚡ Fun fact: I love to watch anime 
 ### Connect with me:
 
