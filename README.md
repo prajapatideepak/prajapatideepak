@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=prajapatideepak&color=000000)
 
-![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=24292F&size=25&lines=Deepak+Prajapati;Full+stack+developer;Passionate+about+startups)
+![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=24292F&size=25&lines=Deepak+Prajapati;Full+stack+developer;Passionate+about+startups+learner)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajapatideepak&theme=radical&hide_border=true)
 
